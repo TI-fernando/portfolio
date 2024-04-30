@@ -1,5 +1,4 @@
 .header {
-    background-color: purple;
     padding: 30px 15px;
 }
 
@@ -114,6 +113,7 @@
 
     .header nav input:checked ~ ul {
         display: block;
+        border-radius: 15px;
     }
 
     .header nav {
